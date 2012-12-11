@@ -29,6 +29,7 @@ If you get the wrong answer, drink to punish yourself. If you get the right answ
 If your answer is paticularly amusing or clever, everyone (including you) drinks two shots. Remember, nobody wins a drinking game.\n\
 I will ask you one question at a time. If you want to know the answer, press enter.\n\
 To get to the next question, press enter again.\n\
+Cheers!\n\
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n'
 
 
