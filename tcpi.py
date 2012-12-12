@@ -41,4 +41,4 @@ while(questions):
     print question['Credit'],'\n..................................................................................................................................'
     questions.remove(question)
 
-print('Done! Whoever\'s not puking yet is truly a TCP/IP hero[ette]')
+print('Done! Whoever\'s not puking yet is truly a TCP/IP hero[ine]')
