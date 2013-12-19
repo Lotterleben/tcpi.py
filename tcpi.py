@@ -24,9 +24,9 @@ welcome to the TCP/IP drinking game.\n\
 You can play the TCP/IP drinking game just about any way you want,\n\
 as long as you remember that the point is to have fun laughing at the bizarre questions\n\
 which no human being actually knows the answers to. Here\'s a suggestion:\n\
-Pass some token around in a circle. The person in posession of the token asks a question of the person next in line.\n\
+Pass some token around in a circle. The person in possession of the token asks a question of the person next in line.\n\
 If you get the wrong answer, drink to punish yourself. If you get the right answer, everyone drinks. \n\
-If your answer is paticularly amusing or clever, everyone (including you) drinks two shots. Remember, nobody wins a drinking game.\n\
+If your answer is particularly amusing or clever, everyone (including you) drinks two shots. Remember, nobody wins a drinking game.\n\
 I will ask you one question at a time. If you want to know the answer, press enter.\n\
 To get to the next question, press enter again.\n\
 Cheers!\n\
